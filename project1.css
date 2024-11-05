@@ -1,0 +1,18 @@
+
+body
+{
+    border: solid black 15px;
+    padding: 25px;
+}
+.one{
+    display: flex;
+    
+}
+.two
+{
+    justify-content: center;
+}
+.three{
+    display: flex;
+    gap:25px;
+}
